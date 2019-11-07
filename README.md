@@ -7,5 +7,6 @@ Once the data operations are done, the quality lead data is then send to the Red
 ## Technologies Used
 Frontend: Angular, HTML, CSS, Jquery.  
 Backend: Codeignitor, Mysql, MongoDB.  
-Server: AWS with SES, Sphinx.  
-Third-Party: Beyond.    
+Server: Amazon AWS (with SES, RDS Monitoring, S3), Sphinx.  
+Third-Party: Beyond, MMPG (Telephone & Email Validation).  
+Tools: Git, JIRA.  
